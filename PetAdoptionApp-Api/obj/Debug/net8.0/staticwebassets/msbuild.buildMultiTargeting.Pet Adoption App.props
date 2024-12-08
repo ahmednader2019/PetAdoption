@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Pet Adoption App.props" />
+</Project>

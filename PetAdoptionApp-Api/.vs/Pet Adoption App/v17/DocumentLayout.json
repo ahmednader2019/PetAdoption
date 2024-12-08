@@ -1,0 +1,619 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\.Net Api Project\\Pet Adoption App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2912AD97-321E-4140-AC04-C40BD88AAEDA}|Pet Adoption App.csproj|c:\\.net api project\\pet adoption app\\data\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2912AD97-321E-4140-AC04-C40BD88AAEDA}|Pet Adoption App.csproj|solutionrelative:data\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2912AD97-321E-4140-AC04-C40BD88AAEDA}|Pet Adoption App.csproj|c:\\.net api project\\pet adoption app\\extensions\\claimsprincipleextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2912AD97-321E-4140-AC04-C40BD88AAEDA}|Pet Adoption App.csproj|solutionrelative:extensions\\claimsprincipleextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2912AD97-321E-4140-AC04-C40BD88AAEDA}|Pet Adoption App.csproj|c:\\.net api project\\pet adoption app\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2912AD97-321E-4140-AC04-C40BD88AAEDA}|Pet Adoption App.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\.Net Api Project\\Pet Adoption App\\Migrations\\20241207190347_Registerchanges.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20241207190347_Registerchanges.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2912AD97-321E-4140-AC04-C40BD88AAEDA}|Pet Adoption App.csproj|c:\\.net api project\\pet adoption app\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2912AD97-321E-4140-AC04-C40BD88AAEDA}|Pet Adoption App.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2912AD97-321E-4140-AC04-C40BD88AAEDA}|Pet Adoption App.csproj|c:\\.net api project\\pet adoption app\\helpers\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2912AD97-321E-4140-AC04-C40BD88AAEDA}|Pet Adoption App.csproj|solutionrelative:helpers\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2912AD97-321E-4140-AC04-C40BD88AAEDA}|Pet Adoption App.csproj|c:\\.net api project\\pet adoption app\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2912AD97-321E-4140-AC04-C40BD88AAEDA}|Pet Adoption App.csproj|solutionrelative:dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2912AD97-321E-4140-AC04-C40BD88AAEDA}|Pet Adoption App.csproj|c:\\.net api project\\pet adoption app\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2912AD97-321E-4140-AC04-C40BD88AAEDA}|Pet Adoption App.csproj|solutionrelative:dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2912AD97-321E-4140-AC04-C40BD88AAEDA}|Pet Adoption App.csproj|c:\\.net api project\\pet adoption app\\dtos\\photodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2912AD97-321E-4140-AC04-C40BD88AAEDA}|Pet Adoption App.csproj|solutionrelative:dtos\\photodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2912AD97-321E-4140-AC04-C40BD88AAEDA}|Pet Adoption App.csproj|c:\\.net api project\\pet adoption app\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2912AD97-321E-4140-AC04-C40BD88AAEDA}|Pet Adoption App.csproj|solutionrelative:models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2912AD97-321E-4140-AC04-C40BD88AAEDA}|Pet Adoption App.csproj|c:\\.net api project\\pet adoption app\\services\\photoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2912AD97-321E-4140-AC04-C40BD88AAEDA}|Pet Adoption App.csproj|solutionrelative:services\\photoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2912AD97-321E-4140-AC04-C40BD88AAEDA}|Pet Adoption App.csproj|c:\\.net api project\\pet adoption app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2912AD97-321E-4140-AC04-C40BD88AAEDA}|Pet Adoption App.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2912AD97-321E-4140-AC04-C40BD88AAEDA}|Pet Adoption App.csproj|c:\\.net api project\\pet adoption app\\models\\photo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2912AD97-321E-4140-AC04-C40BD88AAEDA}|Pet Adoption App.csproj|solutionrelative:models\\photo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2912AD97-321E-4140-AC04-C40BD88AAEDA}|Pet Adoption App.csproj|c:\\.net api project\\pet adoption app\\migrations\\20241205173504_newchanges5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2912AD97-321E-4140-AC04-C40BD88AAEDA}|Pet Adoption App.csproj|solutionrelative:migrations\\20241205173504_newchanges5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2912AD97-321E-4140-AC04-C40BD88AAEDA}|Pet Adoption App.csproj|c:\\.net api project\\pet adoption app\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2912AD97-321E-4140-AC04-C40BD88AAEDA}|Pet Adoption App.csproj|solutionrelative:interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2912AD97-321E-4140-AC04-C40BD88AAEDA}|Pet Adoption App.csproj|c:\\.net api project\\pet adoption app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2912AD97-321E-4140-AC04-C40BD88AAEDA}|Pet Adoption App.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2912AD97-321E-4140-AC04-C40BD88AAEDA}|Pet Adoption App.csproj|c:\\.net api project\\pet adoption app\\helpers\\cloudinarysettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2912AD97-321E-4140-AC04-C40BD88AAEDA}|Pet Adoption App.csproj|solutionrelative:helpers\\cloudinarysettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2912AD97-321E-4140-AC04-C40BD88AAEDA}|Pet Adoption App.csproj|c:\\.net api project\\pet adoption app\\interfaces\\iphotoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2912AD97-321E-4140-AC04-C40BD88AAEDA}|Pet Adoption App.csproj|solutionrelative:interfaces\\iphotoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2912AD97-321E-4140-AC04-C40BD88AAEDA}|Pet Adoption App.csproj|c:\\.net api project\\pet adoption app\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2912AD97-321E-4140-AC04-C40BD88AAEDA}|Pet Adoption App.csproj|solutionrelative:services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2912AD97-321E-4140-AC04-C40BD88AAEDA}|Pet Adoption App.csproj|c:\\.net api project\\pet adoption app\\migrations\\20241202170924_changesnew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2912AD97-321E-4140-AC04-C40BD88AAEDA}|Pet Adoption App.csproj|solutionrelative:migrations\\20241202170924_changesnew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2912AD97-321E-4140-AC04-C40BD88AAEDA}|Pet Adoption App.csproj|c:\\.net api project\\pet adoption app\\dtos\\memberupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2912AD97-321E-4140-AC04-C40BD88AAEDA}|Pet Adoption App.csproj|solutionrelative:dtos\\memberupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2912AD97-321E-4140-AC04-C40BD88AAEDA}|Pet Adoption App.csproj|c:\\.net api project\\pet adoption app\\dtos\\memberdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2912AD97-321E-4140-AC04-C40BD88AAEDA}|Pet Adoption App.csproj|solutionrelative:dtos\\memberdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2912AD97-321E-4140-AC04-C40BD88AAEDA}|Pet Adoption App.csproj|c:\\.net api project\\pet adoption app\\migrations\\20241130133500_applymappers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2912AD97-321E-4140-AC04-C40BD88AAEDA}|Pet Adoption App.csproj|solutionrelative:migrations\\20241130133500_applymappers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2912AD97-321E-4140-AC04-C40BD88AAEDA}|Pet Adoption App.csproj|c:\\.net api project\\pet adoption app\\pet adoption app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2912AD97-321E-4140-AC04-C40BD88AAEDA}|Pet Adoption App.csproj|solutionrelative:pet adoption app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2912AD97-321E-4140-AC04-C40BD88AAEDA}|Pet Adoption App.csproj|c:\\.net api project\\pet adoption app\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2912AD97-321E-4140-AC04-C40BD88AAEDA}|Pet Adoption App.csproj|solutionrelative:interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2912AD97-321E-4140-AC04-C40BD88AAEDA}|Pet Adoption App.csproj|c:\\.net api project\\pet adoption app\\data\\seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2912AD97-321E-4140-AC04-C40BD88AAEDA}|Pet Adoption App.csproj|solutionrelative:data\\seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2912AD97-321E-4140-AC04-C40BD88AAEDA}|Pet Adoption App.csproj|c:\\.net api project\\pet adoption app\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2912AD97-321E-4140-AC04-C40BD88AAEDA}|Pet Adoption App.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2912AD97-321E-4140-AC04-C40BD88AAEDA}|Pet Adoption App.csproj|c:\\.net api project\\pet adoption app\\data\\userseeddata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2912AD97-321E-4140-AC04-C40BD88AAEDA}|Pet Adoption App.csproj|solutionrelative:data\\userseeddata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2912AD97-321E-4140-AC04-C40BD88AAEDA}|Pet Adoption App.csproj|c:\\.net api project\\pet adoption app\\extensions\\datetimeextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2912AD97-321E-4140-AC04-C40BD88AAEDA}|Pet Adoption App.csproj|solutionrelative:extensions\\datetimeextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2912AD97-321E-4140-AC04-C40BD88AAEDA}|Pet Adoption App.csproj|c:\\.net api project\\pet adoption app\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2912AD97-321E-4140-AC04-C40BD88AAEDA}|Pet Adoption App.csproj|solutionrelative:dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2912AD97-321E-4140-AC04-C40BD88AAEDA}|Pet Adoption App.csproj|c:\\.net api project\\pet adoption app\\controllers\\buggycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2912AD97-321E-4140-AC04-C40BD88AAEDA}|Pet Adoption App.csproj|solutionrelative:controllers\\buggycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2912AD97-321E-4140-AC04-C40BD88AAEDA}|Pet Adoption App.csproj|c:\\.net api project\\pet adoption app\\controllers\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2912AD97-321E-4140-AC04-C40BD88AAEDA}|Pet Adoption App.csproj|solutionrelative:controllers\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\.Net Api Project\\Pet Adoption App\\Migrations\\20241126120121_ApplyChanges2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20241126120121_ApplyChanges2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2912AD97-321E-4140-AC04-C40BD88AAEDA}|Pet Adoption App.csproj|c:\\.net api project\\pet adoption app\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2912AD97-321E-4140-AC04-C40BD88AAEDA}|Pet Adoption App.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2912AD97-321E-4140-AC04-C40BD88AAEDA}|Pet Adoption App.csproj|c:\\.net api project\\pet adoption app\\migrations\\20241126121218_firstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2912AD97-321E-4140-AC04-C40BD88AAEDA}|Pet Adoption App.csproj|solutionrelative:migrations\\20241126121218_firstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2912AD97-321E-4140-AC04-C40BD88AAEDA}|Pet Adoption App.csproj|c:\\.net api project\\pet adoption app\\migrations\\20241130111944_newchanges.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2912AD97-321E-4140-AC04-C40BD88AAEDA}|Pet Adoption App.csproj|solutionrelative:migrations\\20241130111944_newchanges.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2912AD97-321E-4140-AC04-C40BD88AAEDA}|Pet Adoption App.csproj|c:\\.net api project\\pet adoption app\\migrations\\20241204221508_new.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2912AD97-321E-4140-AC04-C40BD88AAEDA}|Pet Adoption App.csproj|solutionrelative:migrations\\20241204221508_new.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\.Net Api Project\\Pet Adoption App\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\.Net Api Project\\Pet Adoption App\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAAAFkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T10:53:51.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\.Net Api Project\\Pet Adoption App\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\.Net Api Project\\Pet Adoption App\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAowCcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T19:00:07.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\.Net Api Project\\Pet Adoption App\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "Models\\AppUser.cs",
+              "ToolTip": "C:\\.Net Api Project\\Pet Adoption App\\Models\\AppUser.cs",
+              "RelativeToolTip": "Models\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAowAcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T09:48:58.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClaimsPrincipleExtensions.cs",
+              "DocumentMoniker": "C:\\.Net Api Project\\Pet Adoption App\\Extensions\\ClaimsPrincipleExtensions.cs",
+              "RelativeDocumentMoniker": "Extensions\\ClaimsPrincipleExtensions.cs",
+              "ToolTip": "C:\\.Net Api Project\\Pet Adoption App\\Extensions\\ClaimsPrincipleExtensions.cs",
+              "RelativeToolTip": "Extensions\\ClaimsPrincipleExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T20:32:49.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\.Net Api Project\\Pet Adoption App\\Data\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Data\\UserRepository.cs",
+              "ToolTip": "C:\\.Net Api Project\\Pet Adoption App\\Data\\UserRepository.cs",
+              "RelativeToolTip": "Data\\UserRepository.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAwwB8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T12:16:14.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AutoMapperProfiles.cs",
+              "DocumentMoniker": "C:\\.Net Api Project\\Pet Adoption App\\Helpers\\AutoMapperProfiles.cs",
+              "RelativeDocumentMoniker": "Helpers\\AutoMapperProfiles.cs",
+              "ToolTip": "C:\\.Net Api Project\\Pet Adoption App\\Helpers\\AutoMapperProfiles.cs",
+              "RelativeToolTip": "Helpers\\AutoMapperProfiles.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAABIAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T13:20:13.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\.Net Api Project\\Pet Adoption App\\Dtos\\UserDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\UserDto.cs",
+              "ToolTip": "C:\\.Net Api Project\\Pet Adoption App\\Dtos\\UserDto.cs",
+              "RelativeToolTip": "Dtos\\UserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T13:07:46.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20241207190347_Registerchanges.cs",
+              "DocumentMoniker": "C:\\.Net Api Project\\Pet Adoption App\\Migrations\\20241207190347_Registerchanges.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241207190347_Registerchanges.cs",
+              "ToolTip": "C:\\.Net Api Project\\Pet Adoption App\\Migrations\\20241207190347_Registerchanges.cs",
+              "RelativeToolTip": "Migrations\\20241207190347_Registerchanges.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T19:03:47.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\.Net Api Project\\Pet Adoption App\\Dtos\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\RegisterDto.cs",
+              "ToolTip": "C:\\.Net Api Project\\Pet Adoption App\\Dtos\\RegisterDto.cs",
+              "RelativeToolTip": "Dtos\\RegisterDto.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAAAkAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T19:15:35.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20241205173504_newchanges5.cs",
+              "DocumentMoniker": "C:\\.Net Api Project\\Pet Adoption App\\Migrations\\20241205173504_newchanges5.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241205173504_newchanges5.cs",
+              "ToolTip": "C:\\.Net Api Project\\Pet Adoption App\\Migrations\\20241205173504_newchanges5.cs",
+              "RelativeToolTip": "Migrations\\20241205173504_newchanges5.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T17:35:04.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Photo.cs",
+              "DocumentMoniker": "C:\\.Net Api Project\\Pet Adoption App\\Models\\Photo.cs",
+              "RelativeDocumentMoniker": "Models\\Photo.cs",
+              "ToolTip": "C:\\.Net Api Project\\Pet Adoption App\\Models\\Photo.cs",
+              "RelativeToolTip": "Models\\Photo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T18:36:34.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PhotoDto.cs",
+              "DocumentMoniker": "C:\\.Net Api Project\\Pet Adoption App\\Dtos\\PhotoDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\PhotoDto.cs",
+              "ToolTip": "C:\\.Net Api Project\\Pet Adoption App\\Dtos\\PhotoDto.cs",
+              "RelativeToolTip": "Dtos\\PhotoDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T12:38:51.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\.Net Api Project\\Pet Adoption App\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\.Net Api Project\\Pet Adoption App\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAABcAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T09:50:11.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PhotoService.cs",
+              "DocumentMoniker": "C:\\.Net Api Project\\Pet Adoption App\\Services\\PhotoService.cs",
+              "RelativeDocumentMoniker": "Services\\PhotoService.cs",
+              "ToolTip": "C:\\.Net Api Project\\Pet Adoption App\\Services\\PhotoService.cs",
+              "RelativeToolTip": "Services\\PhotoService.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAA8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T20:36:12.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\.Net Api Project\\Pet Adoption App\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\.Net Api Project\\Pet Adoption App\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "Interfaces\\IUserRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAWwAoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T12:15:17.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CloudinarySettings.cs",
+              "DocumentMoniker": "C:\\.Net Api Project\\Pet Adoption App\\Helpers\\CloudinarySettings.cs",
+              "RelativeDocumentMoniker": "Helpers\\CloudinarySettings.cs",
+              "ToolTip": "C:\\.Net Api Project\\Pet Adoption App\\Helpers\\CloudinarySettings.cs",
+              "RelativeToolTip": "Helpers\\CloudinarySettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T20:03:56.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\.Net Api Project\\Pet Adoption App\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\.Net Api Project\\Pet Adoption App\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-24T09:48:16.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "20241204221508_New.cs",
+              "DocumentMoniker": "C:\\.Net Api Project\\Pet Adoption App\\Migrations\\20241204221508_New.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241204221508_New.cs",
+              "ToolTip": "C:\\.Net Api Project\\Pet Adoption App\\Migrations\\20241204221508_New.cs",
+              "RelativeToolTip": "Migrations\\20241204221508_New.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T22:15:09.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IPhotoService.cs",
+              "DocumentMoniker": "C:\\.Net Api Project\\Pet Adoption App\\Interfaces\\IPhotoService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IPhotoService.cs",
+              "ToolTip": "C:\\.Net Api Project\\Pet Adoption App\\Interfaces\\IPhotoService.cs",
+              "RelativeToolTip": "Interfaces\\IPhotoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T20:35:00.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\.Net Api Project\\Pet Adoption App\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "Services\\TokenService.cs",
+              "ToolTip": "C:\\.Net Api Project\\Pet Adoption App\\Services\\TokenService.cs",
+              "RelativeToolTip": "Services\\TokenService.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T12:32:01.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20241202170924_ChangesNew.cs",
+              "DocumentMoniker": "C:\\.Net Api Project\\Pet Adoption App\\Migrations\\20241202170924_ChangesNew.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241202170924_ChangesNew.cs",
+              "ToolTip": "C:\\.Net Api Project\\Pet Adoption App\\Migrations\\20241202170924_ChangesNew.cs",
+              "RelativeToolTip": "Migrations\\20241202170924_ChangesNew.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAqwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T17:09:24.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MemberUpdateDto.cs",
+              "DocumentMoniker": "C:\\.Net Api Project\\Pet Adoption App\\Dtos\\MemberUpdateDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\MemberUpdateDto.cs",
+              "ToolTip": "C:\\.Net Api Project\\Pet Adoption App\\Dtos\\MemberUpdateDto.cs",
+              "RelativeToolTip": "Dtos\\MemberUpdateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAABBwAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T17:05:06.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MemberDto.cs",
+              "DocumentMoniker": "C:\\.Net Api Project\\Pet Adoption App\\Dtos\\MemberDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\MemberDto.cs",
+              "ToolTip": "C:\\.Net Api Project\\Pet Adoption App\\Dtos\\MemberDto.cs",
+              "RelativeToolTip": "Dtos\\MemberDto.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAIBWwAIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T12:37:51.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20241130133500_ApplyMappers.cs",
+              "DocumentMoniker": "C:\\.Net Api Project\\Pet Adoption App\\Migrations\\20241130133500_ApplyMappers.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241130133500_ApplyMappers.cs",
+              "ToolTip": "C:\\.Net Api Project\\Pet Adoption App\\Migrations\\20241130133500_ApplyMappers.cs",
+              "RelativeToolTip": "Migrations\\20241130133500_ApplyMappers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T13:35:01.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Pet Adoption App.csproj",
+              "DocumentMoniker": "C:\\.Net Api Project\\Pet Adoption App\\Pet Adoption App.csproj",
+              "RelativeDocumentMoniker": "Pet Adoption App.csproj",
+              "ToolTip": "C:\\.Net Api Project\\Pet Adoption App\\Pet Adoption App.csproj",
+              "RelativeToolTip": "Pet Adoption App.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-30T13:17:54.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ITokenService.cs",
+              "DocumentMoniker": "C:\\.Net Api Project\\Pet Adoption App\\Interfaces\\ITokenService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ITokenService.cs",
+              "ToolTip": "C:\\.Net Api Project\\Pet Adoption App\\Interfaces\\ITokenService.cs",
+              "RelativeToolTip": "Interfaces\\ITokenService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T12:28:54.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20241130111944_newchanges.cs",
+              "DocumentMoniker": "C:\\.Net Api Project\\Pet Adoption App\\Migrations\\20241130111944_newchanges.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241130111944_newchanges.cs",
+              "ToolTip": "C:\\.Net Api Project\\Pet Adoption App\\Migrations\\20241130111944_newchanges.cs",
+              "RelativeToolTip": "Migrations\\20241130111944_newchanges.cs",
+              "ViewState": "AQIAAHAAAAAAAAAAAIBJwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T11:19:44.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UserSeedData.json",
+              "DocumentMoniker": "C:\\.Net Api Project\\Pet Adoption App\\Data\\UserSeedData.json",
+              "RelativeDocumentMoniker": "Data\\UserSeedData.json",
+              "ToolTip": "C:\\.Net Api Project\\Pet Adoption App\\Data\\UserSeedData.json",
+              "RelativeToolTip": "Data\\UserSeedData.json",
+              "ViewState": "AQIAAAQAAAAAAAAAAABRwBMAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-30T10:59:57.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Seed.cs",
+              "DocumentMoniker": "C:\\.Net Api Project\\Pet Adoption App\\Data\\Seed.cs",
+              "RelativeDocumentMoniker": "Data\\Seed.cs",
+              "ToolTip": "C:\\.Net Api Project\\Pet Adoption App\\Data\\Seed.cs",
+              "RelativeToolTip": "Data\\Seed.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAIBJwAwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T11:05:55.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\.Net Api Project\\Pet Adoption App\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\.Net Api Project\\Pet Adoption App\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAIBJwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T09:54:03.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\.Net Api Project\\Pet Adoption App\\Dtos\\LoginDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\LoginDto.cs",
+              "ToolTip": "C:\\.Net Api Project\\Pet Adoption App\\Dtos\\LoginDto.cs",
+              "RelativeToolTip": "Dtos\\LoginDto.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwAgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T11:19:13.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "BuggyController.cs",
+              "DocumentMoniker": "C:\\.Net Api Project\\Pet Adoption App\\Controllers\\BuggyController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BuggyController.cs",
+              "ToolTip": "C:\\.Net Api Project\\Pet Adoption App\\Controllers\\BuggyController.cs",
+              "RelativeToolTip": "Controllers\\BuggyController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAqwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T15:25:01.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DateTimeExtensions.cs",
+              "DocumentMoniker": "C:\\.Net Api Project\\Pet Adoption App\\Extensions\\DateTimeExtensions.cs",
+              "RelativeDocumentMoniker": "Extensions\\DateTimeExtensions.cs",
+              "ToolTip": "C:\\.Net Api Project\\Pet Adoption App\\Extensions\\DateTimeExtensions.cs",
+              "RelativeToolTip": "Extensions\\DateTimeExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T19:36:58.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "baseApiController.cs",
+              "DocumentMoniker": "C:\\.Net Api Project\\Pet Adoption App\\Controllers\\baseApiController.cs",
+              "RelativeDocumentMoniker": "Controllers\\baseApiController.cs",
+              "ToolTip": "C:\\.Net Api Project\\Pet Adoption App\\Controllers\\baseApiController.cs",
+              "RelativeToolTip": "Controllers\\baseApiController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T17:32:35.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20241126121218_FirstMigration.cs",
+              "DocumentMoniker": "C:\\.Net Api Project\\Pet Adoption App\\Migrations\\20241126121218_FirstMigration.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241126121218_FirstMigration.cs",
+              "ToolTip": "C:\\.Net Api Project\\Pet Adoption App\\Migrations\\20241126121218_FirstMigration.cs",
+              "RelativeToolTip": "Migrations\\20241126121218_FirstMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAABhwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T12:12:19.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20241126120121_ApplyChanges2.cs",
+              "DocumentMoniker": "C:\\.Net Api Project\\Pet Adoption App\\Migrations\\20241126120121_ApplyChanges2.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241126120121_ApplyChanges2.cs",
+              "ToolTip": "C:\\.Net Api Project\\Pet Adoption App\\Migrations\\20241126120121_ApplyChanges2.cs",
+              "RelativeToolTip": "Migrations\\20241126120121_ApplyChanges2.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T12:01:22.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\.Net Api Project\\Pet Adoption App\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\.Net Api Project\\Pet Adoption App\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T10:52:36.249Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
